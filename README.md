@@ -7,17 +7,13 @@ The project is created to practice and demonstrate traditional React class compo
 This project uses:
 
 React (Class Components)
-
 JavaScript
-
 CSS
-
 Create React App
 
 Project Setup
 
 This project was initialized using Create React App.
-
 Create Project
 npx create-react-app classy-weather
 
@@ -28,19 +24,14 @@ Start the App
 npm start
 
 Application runs at:
-
 http://localhost:3000
 
 Technologies Used
 
 React (Class Components only)
-
 JavaScript (ES6)
-
 CSS
-
 HTML
-
 React Style Used
 
 ✅ Class-Based Components
@@ -50,52 +41,24 @@ React Style Used
 React Concepts Covered
 
 React.Component
-
 constructor()
-
 this.state
-
 this.setState()
-
 Event handling in class components
-
 Passing props
-
 Conditional rendering
-
 Lifecycle methods:
-
 componentDidMount()
-
 componentDidUpdate()
-
 componentWillUnmount()
 
 ✨ Features
 
 🔍 Search weather by city
-
 🌡️ Display temperature & conditions
-
 ⚡ Dynamic updates using setState
-
 🎨 Clean & simple UI with CSS
-
 🧠 Lifecycle-based data handling
-
 🎓 Learning Objectives
 
-Master class-based React
 
-Understand React lifecycle flow
-
-Learn state management without hooks
-
-Prepare for React interview questions
-
-Work confidently with legacy React projects
-
-👤 Author
-
-Vijay Korate
-Frontend Developer | React
