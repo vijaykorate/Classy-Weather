@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+Classy Weather (Class-Based React)
+Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Classy Weather is a frontend-only weather application built using Class-Based React Components.
+The project is created to practice and demonstrate traditional React class components, lifecycle methods, state management, and event handling without using React Hooks.
 
-## Available Scripts
+This project uses:
 
-In the project directory, you can run:
+React (Class Components)
 
-### `npm start`
+JavaScript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Create React App
 
-### `npm test`
+Project Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project was initialized using Create React App.
 
-### `npm run build`
+Create Project
+npx create-react-app classy-weather
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Go to Project Folder
+cd classy-weather
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Start the App
+npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Application runs at:
 
-### `npm run eject`
+http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React (Class Components only)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+JavaScript (ES6)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+CSS
 
-## Learn More
+HTML
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React Style Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+✅ Class-Based Components
+❌ No Hooks used
+❌ No Functional Components
 
-### Code Splitting
+React Concepts Covered
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+React.Component
 
-### Analyzing the Bundle Size
+constructor()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+this.state
 
-### Making a Progressive Web App
+this.setState()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Event handling in class components
 
-### Advanced Configuration
+Passing props
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Conditional rendering
 
-### Deployment
+Lifecycle methods:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+componentDidMount()
 
-### `npm run build` fails to minify
+componentDidUpdate()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+componentWillUnmount()
+
+✨ Features
+
+🔍 Search weather by city
+
+🌡️ Display temperature & conditions
+
+⚡ Dynamic updates using setState
+
+🎨 Clean & simple UI with CSS
+
+🧠 Lifecycle-based data handling
+
+🎓 Learning Objectives
+
+Master class-based React
+
+Understand React lifecycle flow
+
+Learn state management without hooks
+
+Prepare for React interview questions
+
+Work confidently with legacy React projects
+
+👤 Author
+
+Vijay Korate
+Frontend Developer | React
